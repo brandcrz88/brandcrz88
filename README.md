@@ -7,10 +7,12 @@ I'm a master's student of microelectronics based in Singapore, I am passionate a
 
 # 🧰 Toolbox
 **Logic Design:**
-Verilog | SystemVerilog
+![Verilog](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 **Software Languages:**
-Python | C++
+![Python](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![C++](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
   
 # 🌵 Fun Facts
 - I love playing music.
