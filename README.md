@@ -1,3 +1,5 @@
+# Hey
+
 - 👋 Hi, I’m @brandcrz88
 - 👀 I’m interested in hardware design!
 - 🌱 I’m currently learning ASIC fabrication
