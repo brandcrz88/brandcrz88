@@ -6,13 +6,11 @@ I'm a master's student of microelectronics based in Singapore, I am passionate a
 - 💞️ I’m looking to collaborate on hardware acceleration projects related to ML.
   
 # Fun Facts
----
 - I love playing music.
 - My favorite books are Russian novels.
 - My dog name is Bean.
 
 # Contact
----
 You can contact me on my personal email 📫 brandonsamuel.cs@gmail.com or [Linkedl][https://www.linkedin.com/in/brandoncrz/]
 
 <!---
