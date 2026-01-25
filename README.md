@@ -1,11 +1,5 @@
 # Hey, I'm Brandon 👋
 
-I'm a master's student of microelectronics based in Singapore, I am passionate about building beneficial technology.
-
-- 👀 I’m interested in hardware design!
-- 💞️ I’m looking to collaborate on hardware acceleration projects related to ML.
-
-# 🧰 Toolbox
 **Logic Design:**
 Verilog | SystemVerilog
 
